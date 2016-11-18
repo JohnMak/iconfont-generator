@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>close_video_gallery</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="svg-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="close_video_gallery" fill="#3E3D3F">
+            <g id="close-white" transform="translate(2.000000, 2.000000)">
+                <path d="M8.15539102,38.2132898 L470.889033,500.974593 C479.473189,509.559262 493.390856,509.559262 501.975012,500.974593 C510.559169,492.389923 510.559169,478.471424 501.975012,469.886755 L39.2413701,7.12545256 C30.657214,-1.45921666 16.7395471,-1.45921666 8.15539102,7.12545256 C-0.428765069,15.7101218 -0.428765069,29.6286206 8.15539102,38.2132898 Z" id="Line"></path>
+                <path d="M469.75863,7.12545256 L7.02498755,469.886755 C-1.55916854,478.471424 -1.55916854,492.389923 7.02498755,500.974593 C15.6091436,509.559262 29.5268105,509.559262 38.1109666,500.974593 L500.844609,38.2132898 C509.428765,29.6286206 509.428765,15.7101218 500.844609,7.12545256 C492.260453,-1.45921666 478.342786,-1.45921666 469.75863,7.12545256 Z" id="Line-Copy-8"></path>
+            </g>
+        </g>
+    </g>
+</svg>

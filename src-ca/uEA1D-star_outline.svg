@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>star_outline</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="svg-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="star_outline" fill="#3E3D3F">
+            <path d="M207.911949,217.752047 L104.633977,232.440168 L179.261405,303.876853 L161.193036,410.034911 L257.702209,360.659852 L351.716423,409.014936 L333.696962,304.021853 L407.832741,232.512664 L303.946162,217.744513 L256.058756,122.622792 L207.911949,217.752047 Z M256.172914,16 L335.569542,173.71044 L512,198.791173 L385.35165,320.952442 L415.355835,495.776316 L257.643898,414.659072 L97.7449675,496.464966 L127.617641,320.952442 L0,198.791173 L176.352525,173.71044 L256.172914,16 Z" id="star04"></path>
+        </g>
+    </g>
+</svg>

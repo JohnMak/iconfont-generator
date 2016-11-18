@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="512px" height="512px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 512 512"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#3E3D3F}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="svg-icons">
+   <g id="full_screen">
+    <g id="full-screen-icon">
+     <g id="Group-7-Copy-3">
+      <path id="Line-Copy-15" class="fil0" d="M378 184l104 -104c10,-10 10,-27 0,-37 -10,-10 -27,-10 -37,0l-104 104c-10,10 -10,27 0,37 10,10 27,10 37,0z"/>
+      <path id="Path-3-Copy" class="fil0" d="M460 164c0,14 12,26 26,26 14,0 26,-12 26,-26l0 -128c0,-15 -12,-26 -26,-26l-128 0c-14,0 -26,11 -26,26 0,14 12,26 26,26l102 -1 0 103z"/>
+     </g>
+     <g id="Group-7-Copy-4">
+      <path id="Line-Copy-15_0" class="fil0" d="M134 184l-104 -104c-10,-10 -10,-27 0,-37 10,-10 27,-10 37,0l104 104c10,10 10,27 0,37 -10,10 -27,10 -37,0z"/>
+      <path id="Path-3-Copy_1" class="fil0" d="M52 164c0,14 -12,26 -26,26 -14,0 -26,-12 -26,-26l0 -128c0,-15 12,-26 26,-26l128 0c14,0 26,11 26,26 0,14 -12,26 -26,26l-102 -1 0 103z"/>
+     </g>
+     <g id="Group-7-Copy-6">
+      <path id="Line-Copy-15_2" class="fil0" d="M378 328l104 104c10,10 10,27 0,37 -10,10 -27,10 -37,0l-104 -104c-10,-10 -10,-27 0,-37 10,-10 27,-10 37,0z"/>
+      <path id="Path-3-Copy_3" class="fil0" d="M460 451l0 -103c0,-14 12,-26 26,-26 14,0 26,12 26,26l0 128c0,15 -12,26 -26,26l-128 0c-14,0 -26,-11 -26,-26 0,-14 12,-26 26,-26l102 1z"/>
+     </g>
+     <g id="Group-7-Copy-5">
+      <path id="Line-Copy-15_4" class="fil0" d="M134 328l-104 104c-10,10 -10,27 0,37 10,10 27,10 37,0l104 -104c10,-10 10,-27 0,-37 -10,-10 -27,-10 -37,0z"/>
+      <path id="Path-3-Copy_5" class="fil0" d="M52 348c0,-14 -12,-26 -26,-26 -14,0 -26,12 -26,26l0 128c0,15 12,26 26,26l128 0c14,0 26,-11 26,-26 0,-14 -12,-26 -26,-26l-102 1 0 -103z"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
